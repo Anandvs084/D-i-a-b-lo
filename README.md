@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-i-a-b-lo
-- 👀 I’m interested in python.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning python.
 
 <!---
